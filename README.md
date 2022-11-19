@@ -1,4 +1,4 @@
-# betterprintedcalipers
+# BetterPrintedCalipers (BPC v0)
 ### Designed in FreeCAD
 This project attempts to solve the downfalls of regular 3D printed calipers regarding flex, smoothness of motion and repeatability. I won't pretend that this will be a perfect pair of calipers (If you want some, Mititoyo!), but this should be "good enough" for most measurements.
 
